@@ -19,7 +19,7 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/DmitryOshkin">
-             <img src="https://github-readme-stats.vercel.app/api?username=DmitryOshkin&show_icons=true&theme=radical" alt="Dmitry's GitHub Stats" vertical-align="middle"/>
+             <img src="https://github-readme-stats.vercel.app/api?username=DmitryOshkin&show_icons=true&theme=radical" alt="Dmitry GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
