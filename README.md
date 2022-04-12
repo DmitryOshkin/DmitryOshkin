@@ -1,5 +1,46 @@
-### Hi there 👋
+### Hi there 👋 
 
+
+
+:dart: I'm finishing my online school **[QA.GURU online school](https://qa.guru)**.
+
+
+<div align="left">
+<h2> My GitHub statistics </h2>
+</div>
+
+<div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/DmitryOshkin">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryOshkin&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Dmitry's Language Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/DmitryOshkin">
+             <img src="https://github-readme-stats.vercel.app/api?username=DmitryOshkin&show_icons=true&theme=radical" alt="Dmitry's GitHub Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  <table>
+<div>
+
+---
+
+<div align='center'>
+
+![](https://komarev.com/ghpvc/?username=DmitryOshkin&label=Profile+Views)
+
+</div>
+  
+  
 <!--
 **DmitryOshkin/DmitryOshkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
