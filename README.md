@@ -1,10 +1,6 @@
 ### Hi there 👋 
 
 
-
-:dart: I'm finishing my online school **[QA.GURU online school](https://qa.guru)**.
-
-
 <div align="left">
 <h2> My GitHub statistics </h2>
 </div>
