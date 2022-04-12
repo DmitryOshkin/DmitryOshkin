@@ -6,36 +6,15 @@ Here you can see my thesis project **[Diploma](https://github.com/DmitryOshkin/q
 
 
 <div align="left">
-<h2> My GitHub statistics </h2>
-</div>
-
-<div align="center">
-  <table width="100%">
-    <tbody>
-      <tr>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/DmitryOshkin">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryOshkin&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Dmitry's Language Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/DmitryOshkin">
-             <img src="https://github-readme-stats.vercel.app/api?username=DmitryOshkin&show_icons=true&theme=radical" alt="Dmitry GitHub Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-      </tr>
-    </tbody>
-  <table>
-<div>
-
----
-
-<div align='center'>
-
+  
+![Dmitry GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmitryOshkin&show_icons=true&theme=tokyonight)
+  
+![Dmitry's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryOshkin&hide=ruby&layout=compact&hide_border=true&langs_count=6) 
+  
+ <div>
+   
+ <div align='center'>
+   
 ![](https://komarev.com/ghpvc/?username=DmitryOshkin&label=Profile+Views)
 
 </div>
