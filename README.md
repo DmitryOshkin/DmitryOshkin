@@ -1,7 +1,8 @@
 ### Hi there 👋 
 
 I'm finished my online school **[QA.GURU](https://qa.guru)**
-Here you can see my diplom work **[Diploma](https://github.com/DmitryOshkin/qa_guru_diplomaWork)**
+
+Here you can see my thesis project **[Diploma](https://github.com/DmitryOshkin/qa_guru_diplomaWork)**
 
 
 <div align="left">
