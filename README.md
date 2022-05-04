@@ -1,8 +1,8 @@
-### Hi there 👋 
+### Всем привет 👋 
 
-I'm finished my online school **[QA.GURU](https://qa.guru)**
+Я закончил обучение в онлайн школе **[QA.GURU](https://qa.guru)**
 
-Here you can see my thesis project **[Diploma](https://github.com/DmitryOshkin/qa_guru_diplomaWork)**
+Здесь вы найдете мой димломный проект **[Diploma](https://github.com/DmitryOshkin/qa_guru_diplomaWork)**
 
 
 <div align="left">
